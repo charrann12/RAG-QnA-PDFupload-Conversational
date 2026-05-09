@@ -58,8 +58,7 @@ Conversational Question Answering
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/charrann12/RAG-QnA-PDFupload-Conversational.git
 ```
 
 ---
@@ -94,35 +93,8 @@ pip install -r requirements.txt
 
 ---
 
-## Requirements
-
-Create a `requirements.txt` file with:
-
-```txt
-streamlit
-langchain
-langchain-community
-langchain-core
-langchain-groq
-langchain-huggingface
-sentence-transformers==2.6.1
-transformers==4.38.2
-torch==2.2.2
-faiss-cpu
-pypdf
-python-dotenv
-numpy==1.26.4
-```
-
----
 
 ## Environment Variables
-
-Create a `.env` file:
-
-```env
-HF_TOKEN=your_huggingface_token
-```
 
 Groq API key is entered directly in the Streamlit UI.
 
