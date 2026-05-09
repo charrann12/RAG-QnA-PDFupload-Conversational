@@ -10,3 +10,4 @@ pypdf
 streamlit
 langchain_huggingface
 sentence-transformers
+torchvision
