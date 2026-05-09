@@ -148,8 +148,12 @@ streamlit run app.py
 
 ---
 
-## Demo
 
-Add screenshots or demo GIFs here.
+## Streamlit Chat Interface
 
+### First query
+![Streamlit UI](images/image1.png)
+
+### Summary of the conversation
+![Streamlit UI](images/image2.png)
 ---
